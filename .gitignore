@@ -4,3 +4,10 @@ datasets/
 # Ignore sparkmeasure
 spark-measure_2.11-0.17.jar
 
+# Checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
