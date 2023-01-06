@@ -1,4 +1,4 @@
-# Data Mining and Machine Learning Project
+# Big Data Management Systems Project
 
 ## About The Project
 
